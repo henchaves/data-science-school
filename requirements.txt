@@ -3,4 +3,4 @@ statsmodels
 matplotlib
 seaborn
 jupyter
-
+sklearn
